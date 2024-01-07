@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-![loadingPage1](https://github.com/Virang007/FlutterQuizApp/assets/104147123/4c700f9b-da15-4d63-a13b-2b40b1a634b5)
-![scorepage](https://github.com/Virang007/FlutterQuizApp/assets/104147123/6b802daa-7493-4604-a0a9-b60764af672e)
-![Home2](https://github.com/Virang007/FlutterQuizApp/assets/104147123/a372f2d7-9fb2-4285-a2cc-2f2216b3cb27)
+![loadingPage1](https://github.com/Virang007/FlutterQuizApp/assets/104147123/ec5318e4-1fbc-4179-8646-f7953e18c90b)![Home2](https://github.com/Virang007/FlutterQuizApp/assets/104147123/b3ef1707-2f1c-42b7-91f0-a515a9727a4d)![scorepage](https://github.com/Virang007/FlutterQuizApp/assets/104147123/7019c81c-5458-42d4-aed5-7ba48b0602dd)
 
 ## Getting Started
 
